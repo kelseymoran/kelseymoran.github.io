@@ -11,7 +11,7 @@ author_profile: true
 
 # Working Papers
 
-1. “Immigrant Labor and the Institutionalization of the U.S.-Born Elderly” with Kristin Butcher and Tara Watson. [NBER Working Paper No. 29520](https://www.nber.org/papers/w29520). *Under Review* 
+1. “Immigrant Labor and the Institutionalization of the U.S.-Born Elderly” with Kristin Butcher and Tara Watson. [NBER Working Paper No. 29520](/files/w29520.pdf). *Under Review* 
 - Media Coverage: [Brookings](https://www.brookings.edu/blog/up-front/2021/12/02/hutchins-roundup-immigrant-labor-nafta-and-more/), [Niskanen Center](https://www.niskanencenter.org/immigrant-labor-holds-the-key-to-whether-americans-can-age-at-home/)
 - Summaries
 
