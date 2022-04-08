@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-[The Evolution of Infant Mortality Inequality in the United States, 1960–2016](https://www.science.org/doi/full/10.1126/sciadv.aba5908) (with Nick Turner and Kaveh Danesh). Science Advances, 6(29), 2020. 
+[The Evolution of Infant Mortality Inequality in the United States, 1960–2016](https://www.science.org/doi/full/10.1126/sciadv.aba5908) (with [Nick Turner](https://www.federalreserve.gov/econres/nick-turner.htm) and Kaveh Danesh). Science Advances, 6(29), 2020. 
 
 
 ## Working Papers
