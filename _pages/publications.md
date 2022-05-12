@@ -19,9 +19,9 @@ author_profile: true
 
 ## Selected Works in Progress
 
-Non-Profit Hospital Charity Care and the Public Health Care Safety Net
+Non-Profit Hospital Charity Care & the Public Health Care Safety Net
 
-Hill-Burton Act and Hospital Charity Care
+Hospital Charity Care & The Hill-Burton Act
 
 
 <!-- {% if author.googlescholar %}
